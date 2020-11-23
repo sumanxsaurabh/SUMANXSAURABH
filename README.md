@@ -38,9 +38,11 @@
 
 ### GitHub Stats:
 
-```md
-[![Sumans's Github Stats](https://github-readme-stats.vercel.app/api?username=sumanxsaurabh)](https://github.com/sumanxsaurabh/github-readme-stats)
-```
+<p align="center">
+  <a href = "https://github.com/sumanxsaurabh">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=sumanxsaurabh&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+  </a>
+ </p>
 
 <br />
 <br />
