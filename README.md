@@ -2,6 +2,8 @@
 
 ## I'm a Senior Software Engineer (Full Stack Developer) and a Data Science Enthusiast!!
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play outdoor games
