@@ -4,11 +4,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="260" />
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play outdoor games
-- 💬 Ask me about anything, I am happy to help
-- 📫 Please email via suman91saurabh@gmail.com to reach me
+- 🌱  I’m currently learning everything 🤣
+- 🥅  2020 Goals: Contribute more to Open Source projects
+- ⚡  Fun fact: I love to play outdoor games
+- 💬  Ask me about anything, I am happy to help
+- 📫  Please email via suman91saurabh@gmail.com to reach me
 
 ### Connect with me:
 
