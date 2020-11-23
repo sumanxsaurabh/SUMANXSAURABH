@@ -38,9 +38,9 @@
 
 ### GitHub Stats:
 
-<p align="center">
+```md
 [![Sumans's Github Stats](https://github-readme-stats.vercel.app/api?username=sumanxsaurabh)](https://github.com/sumanxsaurabh/github-readme-stats)
- </p>
+```
 
 <br />
 <br />
