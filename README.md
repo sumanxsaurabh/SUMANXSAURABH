@@ -1,22 +1,23 @@
 ### Hi there, I'm Suman 👋
 
-## I'm a Full Stack Java Developer and a Data Science Enthusiast!!
+## I'm a Full Stack Developer and a Data Science Enthusiast!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱  I’m currently learning everything 🤣
+- 🥅  2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play outdoor games
-- 💬 Ask me about anything, I am happy to help
-- 📫 Please email via suman91saurabh@gmail.com to reach me
+- 💬  Ask me about anything, I am happy to help
+- 📫  Please email via suman91saurabh@gmail.com to reach me
 
 ### Connect with me:
 
 [<img align="left" alt="Suman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Suman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Suman | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Quora]
+[<img align="left" alt="Suman | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][Quora]
 [<img align="left" alt="Suman | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
 <br />
+
+---
 
 ### Languages and Tools:
 
@@ -32,6 +33,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="mysql"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
+
+---
 
 ### GitHub Stats
 
