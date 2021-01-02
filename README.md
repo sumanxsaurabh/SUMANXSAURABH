@@ -64,6 +64,9 @@
   <a href = "https://github.com/sumanxsaurabh/Car-Price-Prediction">
 <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=sumanxsaurabh&repo=Car-Price-Prediction&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   </a>
+  <a href = "https://github.com/sumanxsaurabh/Dog-Cat-Image-Recognition">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/pin/?username=sumanxsaurabh&repo=Dog-Cat-Image-Recognition&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  </a>
 </p>
 
 [twitter]: https://twitter.com/suman91saurabh
