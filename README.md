@@ -1,10 +1,10 @@
 ### Hi there, I'm Suman 👋
 
-## I'm a Senior Software Engineer (Full Stack Developer) and a Data Science Enthusiast!!
+## I'm a Senior Software Engineer AI-ML!!
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="260" />
 
-- 🌱  I’m currently learning everything 🤣
+- 🌱  I am someone who knows more statistics than a software engineer but knows more coding than a statistician. 🤣
 - 🥅  2020 Goals: Contribute more to Open Source projects
 - ⚡  Fun fact: I love to play outdoor games
 - 💬  Ask me about anything, I am happy to help
